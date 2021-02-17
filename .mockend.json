@@ -1,0 +1,21 @@
+{
+    "ProjectPage": {
+      "headerImage": "string",
+      "title": "string",
+      "subtitle": "string",
+      "articleHeader": "string",
+      "articleBody": "string",
+      "articleImages": "Image[]",
+      "navigationItems": "NavigationItem[]",
+      "highlights": "Highlight[]"
+    },
+    "NavigationItem": {
+        "title": "string"
+    },
+    "Image": {
+        "url": "string"
+    },
+    "Highlight": {
+        "title": "string"
+    }
+  }
