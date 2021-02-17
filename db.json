@@ -1,0 +1,26 @@
+{
+    "ProjectPage": {
+        "headerImage": "https://cultivatedculture.com/wp-content/uploads/2019/05/Chromatic-LinkedIn-Cover-Photo-Background.png",
+        "title": "A new inspiration",
+        "subtitle": "For me, for you, for everyone",
+        "articleHeader": "New beginning",
+        "articleBody": "Corona is the worst of the worst!",
+        "articleImages": [
+            { "imageUrl": "https://pbs.twimg.com/profile_images/949787136030539782/LnRrYf6e.jpg" },
+            { "imageUrl": "https://static.boredpanda.com/blog/wp-content/uploads/2017/12/funny-weird-wtf-stock-photos-19-5a3926af95d9d__700.jpg" },
+            { "imageUrl": "http://www.apimages.com/Images/Ap_Creative_Stock_Header.jpg" }
+        ],
+        "navigationItems": [
+            { "name": "Property"},
+            { "name": "Location"},
+            { "name": "Units"},
+            { "name": "Documents"},
+            { "name": "Contact"}
+        ],
+        "highlights": [
+            { "name": "new"},
+            { "name": "awesome"},
+            { "name": "cheap"}
+        ]
+    }
+}
