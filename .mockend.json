@@ -5,17 +5,17 @@
       "subtitle": "string",
       "articleHeader": "string",
       "articleBody": "string",
-      "articleImages": "image[]",
-      "navigationItems": "navigationItem[]",
-      "highlights": "hihglight[]"
+      "articleImages": "Image[]",
+      "navigationItems": "NavigationItem[]",
+      "highlights": "Highlight[]"
     },
-    "navigationItem": {
+    "NavigationItem": {
         "title": "string"
     },
-    "image": {
+    "Image": {
         "url": "string"
     },
-    "highlight": {
+    "Highlight": {
         "title": "string"
     }
   }
